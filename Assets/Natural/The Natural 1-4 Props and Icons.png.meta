@@ -1,0 +1,3208 @@
+fileFormatVersion: 2
+guid: 70dc620daaf0f4e44adaffa2a5599561
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a08b0c31b503644b2e8d87bf8ed37a
+      internalID: -1526758743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94c821588a77d845a58e87b4a68b7dc
+      internalID: -1441754468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c37a10d0c47e458bc5af6167a85b0
+      internalID: -2008765810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 543
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484ac3a96dc2ebc4da81787b5ba66b42
+      internalID: -1147379874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e62b9e0c706c4980e1b8852618e52
+      internalID: 1234833750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f422d7c00a640dc4ca18949442e7e2d8
+      internalID: -1153366197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e49a6100f961f349b1964fdab572154
+      internalID: -1338828562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024b7c5c5e4c28409b2fd64d7dc24ff
+      internalID: 1333595604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 511
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2be3736c76c54193fd79abbafc9d6
+      internalID: -546304554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c339c22f0d423b429517439401588d1
+      internalID: 1488449302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03337b033c7573f41851b4b4b7537eba
+      internalID: -1619655323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c1686f2eb60e14e8ff060216ab57b3
+      internalID: 1151599396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9239aa21df421a646afcfd6dab132cca
+      internalID: 47240364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb103079ccb4e64baa445eabcfe5b3e
+      internalID: -1253274423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d77648123704438b47301766fe0bf
+      internalID: 1631493272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa5063035049f48bebdf115f9ee532
+      internalID: -1873452989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6ee4879b7e9e3468336bbd5a756f24
+      internalID: 17887609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83286d5681c324894b3d66583714ca
+      internalID: -180163885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916308f9e1c90054997af0718e85f2dd
+      internalID: 12205478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6131b32f2e849184cb05f1413d1df11e
+      internalID: 731993443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4295c514c90ec5b4980bda671b0e1ca4
+      internalID: 1549075100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909a38d4aadc3b848ae6c759d8f5b30f
+      internalID: 1785832114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ea3473c97d08649882923478e4d348
+      internalID: -435233281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 447
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce034e426af78204091185b5373d66b3
+      internalID: 241701993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95c3c3ec5527c1428ab365db5a79cbb
+      internalID: -627193205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590ba60361c1ed4daa4947b5656da2c
+      internalID: -439749200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a725331f04c5469a1005e3b4f77d2
+      internalID: 1808372960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3058177dd7b94791a0a93a54ef0dc
+      internalID: -1386131499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee8b9d66b48154486c74bf6d016715
+      internalID: 74623282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acca3f94891e7f4a83bb48d3bb405d6
+      internalID: -1749055144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5737e72819104545b3d94c8e2d1140c
+      internalID: -1694749546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca35fa8f33e4a4eaa750fdb7345065
+      internalID: 1758007824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf33fed2c4ddd2f49ba216b835d4c7ef
+      internalID: -88404155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 415
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21569aae6637ad4b99b9464e86ea6b0
+      internalID: -569070999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7041b592cf6f0468c1d701a81fa92f
+      internalID: 941401729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ea53dba95e42c4c9a8f709869c6a47
+      internalID: -1064439451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8a7416549a4e44b3fbeac2dadc2cb
+      internalID: 2140226682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383721a988537174987909d14ffe2665
+      internalID: -823665642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c981b1d0b4824ca4f8b140a7f8792
+      internalID: 1545725405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cf81206c089a4dad84a150c43a64c
+      internalID: 1437922505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643ef5b51c1ffa43a36e8e357ad706d
+      internalID: 2111122467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876934e7fe456cb4ca08912774bb83d7
+      internalID: -577185092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a12f2a929fd7e49b5ec514d07b660e
+      internalID: 100539141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 383
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da59fcca8f1e4c44b34119c2cf5ed28
+      internalID: 1381904070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe24bff48baad4aaf42f00f3a599d2
+      internalID: -1323297335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6b54694a8f55f45abad95aba33cf7b
+      internalID: 1816859642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3c289da75652247b8a220dbc97e700
+      internalID: -1832600587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193c57585ffb7e14d852ce64857724fb
+      internalID: -1773743591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5dfaeabb1bfe40b49df6b238f0b53
+      internalID: -1429732556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c42f0161e8014d8af2ec1a176dc48
+      internalID: -1122034837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec104ddcf9c2f64384efba5d5a13de4
+      internalID: -117667458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7759e9972815f7b4490b3f9a13e5aa8c
+      internalID: -544319140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4379c4f695a6da44ba91f3677a4f1e0
+      internalID: -1145905428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 351
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b116ab420fec174aa7955371c775e4b
+      internalID: 1186458799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e06d60799687e489fd85f9923c436e
+      internalID: 990220819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f171a59349bcce4f8e859c4b12e613e
+      internalID: 348127328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cee1d2fee8d8a41bdab5774bad23ca
+      internalID: -372690844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236379bb51b5abc43990badc4ff563ed
+      internalID: -1998709516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f82e70adddd2448abbf3b377a8460
+      internalID: -1314024648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba6a972ee411c4fa18e447609d30cd
+      internalID: -522978421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d098a502f01ea24dab774af498b095a
+      internalID: 1340402885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6982342d522bd14683d199faf3711f4
+      internalID: 1900288715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd24e44e073e21449f176e827b4f75e
+      internalID: 1646979182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 319
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12290af4b3e42034ab861d751e038514
+      internalID: -1364014155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778db0ca68a6d884386229fd1b3d4f30
+      internalID: -585837549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbdabc4675651c4e8df037d17e31cd2
+      internalID: 1260631694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa055261a7f0b24cab14df407f570c4
+      internalID: 1095124166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143e9188c46d7742b0efa9389837c77
+      internalID: -1843600045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aeec0a606c0a546a9b0aeff078635e
+      internalID: 56373615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf774c8dc23ea4fb283fe612c4f316
+      internalID: 1380999640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d7d2b28dd5b44b934dbda13af36db
+      internalID: -1863673362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d3198a950a8534c803e4e6815a44f5
+      internalID: 352727401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac1cbe55b1d35447a9cc51180aad39b
+      internalID: -88316382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c97abc879cc4b940a6c6f1e54648637
+      internalID: 1682518706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a57d9768dde045afa308b1738fe3e
+      internalID: 930056756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b9e62be1518e4b84331f961e6b3da
+      internalID: 852140875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3493c6e243c2114789306c5be437231
+      internalID: 477180269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df48e38259cc96b4282a256197a768c7
+      internalID: -1857375169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b24ca2e40186540b8e0f3e7db97361
+      internalID: -1082203311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ac5f2cf61dd14b841a8802648c004
+      internalID: -740199885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26526642b9be83438f8bac6981a157b
+      internalID: 798088226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d040eed4d222c49b07909157e46ec1
+      internalID: -2081135288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492242d88276474408c2bad59e363bd3
+      internalID: -1507135259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89be17022aa9e24d8682a559efbde2d
+      internalID: -299260173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be6c4c0d101b24b848749008094c64
+      internalID: 435252181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1416c9a21e53f45bf0654eead1b02e
+      internalID: 782724022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7349e6468306d14c8de5f1a504eb9ca
+      internalID: -1442839815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2656640446e78464c9a8b3c49c7e69fe
+      internalID: 1518797851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d22208bb254a44988118c49bd252f0
+      internalID: -1404635554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573a359fe92e4544b3f1d3d2889c2b4
+      internalID: 46309084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70fd8c46b32b8498deb7a5efa11462
+      internalID: 354367445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09238e42ec2414faf4b47bebebfe93
+      internalID: 912687872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7303500eb5e8ef341b1dd3448fdd2bac
+      internalID: 1713375637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2605dcf795364087c3b98cc0485ff
+      internalID: -1465673077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ad7cc5b89d074490f484d60364abd
+      internalID: -912813867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299645d4fd174224fa2ab787283f175f
+      internalID: -1654845180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538b869e60ea6a49b9d483d33d3d7d4
+      internalID: -1253911673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa692b13f2ba91740894a4a264a425ab
+      internalID: -825107734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_98
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4c74998f29bd48b26595a694e4e0c
+      internalID: -479566023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28005f90a335c974a9f5175dd94d30ad
+      internalID: -664869393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc39ef7180748428afdb0fe4808cc2
+      internalID: -1679312605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b0c31abe8a1c6429f7df771bd9eff0
+      internalID: 1433973562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942d1fdbf12ecd4a90bc8524134b0a2
+      internalID: -226968127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cabb4b5980f794faac7054bd41120d
+      internalID: -1334371409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f17f8e7cdf19941afa95e68688ed2e
+      internalID: 1892112044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a692cf14999e46841b509f3cd9e65b82
+      internalID: -1237335381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87231b0530f15a04e9a6525fc4244a39
+      internalID: -1977131903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6887a7d31294e4184c171d3fdcdf58
+      internalID: -2013138315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7db2f93fd6d847b4443d36609928e
+      internalID: 1214633362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0f7fa94a3a7e47bfc59ec9f4d2067
+      internalID: 1481385672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75925d5952c496b48bcf580e3e6bd0f2
+      internalID: 1361292181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10d3a6e22dbda84daf6ffcf2d18b89f
+      internalID: 1808475085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ec8d150e82a44097897ac42672882
+      internalID: 1448180324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30104c7146fde274f9ce884588072d16
+      internalID: 1187436560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a963eaa3fb92a42bfa4ff975eaa5a1
+      internalID: 780068394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cac14d46431e1459aebe51a430619f
+      internalID: 1495312430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904d220cb5138844689568160e1cfc6e
+      internalID: 696705520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_117
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9092dd50ffcdbc49b9cdc37a8fe6943
+      internalID: -1037364052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aebcd32570ae5468b755d3c9d45ef4
+      internalID: 1204922780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b50be22d37d244b713bfc83fcd2e2
+      internalID: -450071237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feae046e4d5eb94d9facb086a48dfd2
+      internalID: 108584001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34c495220128649a9bcee24bc9a455
+      internalID: 972580200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_122
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a417ff9eacab46ba69601de45b61d
+      internalID: -59889591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3e5b3a86b2774ab11399ae39717ef
+      internalID: 1321624742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4988296d3127a41a13e5ce703db966
+      internalID: 778264057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef09738f4969ad49b40366a0de1e402
+      internalID: -1666619326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb929810939e6374dba02e538878203d
+      internalID: 1977464351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_127
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ff6ac1becad949b89c4317e05e005
+      internalID: -1411995861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_128
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12523db017e084a8362b96b6998f00
+      internalID: 37971700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ebdf2b3f884b941945a447918043a9
+      internalID: 965406372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00809c52d652f524faf42645c8e3a824
+      internalID: -1602812702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19fd32882d14fb4ea872377dd743891
+      internalID: -2146252214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Natural 1-4 Props and Icons_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afba0c445ccfd498d5fb9d79a819d6
+      internalID: -184874365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: -128, y: 128}
+      - {x: -128, y: -128}
+      - {x: 128, y: -128}
+      - {x: 128, y: 128}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      The Natural 1-4 Props and Icons_0: -1526758743
+      The Natural 1-4 Props and Icons_1: -1441754468
+      The Natural 1-4 Props and Icons_10: -1619655323
+      The Natural 1-4 Props and Icons_100: -1679312605
+      The Natural 1-4 Props and Icons_101: 1433973562
+      The Natural 1-4 Props and Icons_102: -226968127
+      The Natural 1-4 Props and Icons_103: -1334371409
+      The Natural 1-4 Props and Icons_104: 1892112044
+      The Natural 1-4 Props and Icons_105: -1237335381
+      The Natural 1-4 Props and Icons_106: -1977131903
+      The Natural 1-4 Props and Icons_107: -2013138315
+      The Natural 1-4 Props and Icons_108: 1214633362
+      The Natural 1-4 Props and Icons_109: 1481385672
+      The Natural 1-4 Props and Icons_11: 1151599396
+      The Natural 1-4 Props and Icons_110: 1361292181
+      The Natural 1-4 Props and Icons_111: 1808475085
+      The Natural 1-4 Props and Icons_112: 1448180324
+      The Natural 1-4 Props and Icons_113: 1187436560
+      The Natural 1-4 Props and Icons_114: 780068394
+      The Natural 1-4 Props and Icons_115: 1495312430
+      The Natural 1-4 Props and Icons_116: 696705520
+      The Natural 1-4 Props and Icons_117: -1037364052
+      The Natural 1-4 Props and Icons_118: 1204922780
+      The Natural 1-4 Props and Icons_119: -450071237
+      The Natural 1-4 Props and Icons_12: 47240364
+      The Natural 1-4 Props and Icons_120: 108584001
+      The Natural 1-4 Props and Icons_121: 972580200
+      The Natural 1-4 Props and Icons_122: -59889591
+      The Natural 1-4 Props and Icons_123: 1321624742
+      The Natural 1-4 Props and Icons_124: 778264057
+      The Natural 1-4 Props and Icons_125: -1666619326
+      The Natural 1-4 Props and Icons_126: 1977464351
+      The Natural 1-4 Props and Icons_127: -1411995861
+      The Natural 1-4 Props and Icons_128: 37971700
+      The Natural 1-4 Props and Icons_129: 965406372
+      The Natural 1-4 Props and Icons_13: -1253274423
+      The Natural 1-4 Props and Icons_130: -1602812702
+      The Natural 1-4 Props and Icons_131: -2146252214
+      The Natural 1-4 Props and Icons_132: -184874365
+      The Natural 1-4 Props and Icons_14: 1631493272
+      The Natural 1-4 Props and Icons_15: -1873452989
+      The Natural 1-4 Props and Icons_16: 17887609
+      The Natural 1-4 Props and Icons_17: -180163885
+      The Natural 1-4 Props and Icons_18: 12205478
+      The Natural 1-4 Props and Icons_19: 731993443
+      The Natural 1-4 Props and Icons_2: -2008765810
+      The Natural 1-4 Props and Icons_20: 1549075100
+      The Natural 1-4 Props and Icons_21: 1785832114
+      The Natural 1-4 Props and Icons_22: -435233281
+      The Natural 1-4 Props and Icons_23: 241701993
+      The Natural 1-4 Props and Icons_24: -627193205
+      The Natural 1-4 Props and Icons_25: -439749200
+      The Natural 1-4 Props and Icons_26: 1808372960
+      The Natural 1-4 Props and Icons_27: -1386131499
+      The Natural 1-4 Props and Icons_28: 74623282
+      The Natural 1-4 Props and Icons_29: -1749055144
+      The Natural 1-4 Props and Icons_3: -1147379874
+      The Natural 1-4 Props and Icons_30: -1694749546
+      The Natural 1-4 Props and Icons_31: 1758007824
+      The Natural 1-4 Props and Icons_32: -88404155
+      The Natural 1-4 Props and Icons_33: -569070999
+      The Natural 1-4 Props and Icons_34: 941401729
+      The Natural 1-4 Props and Icons_35: -1064439451
+      The Natural 1-4 Props and Icons_36: 2140226682
+      The Natural 1-4 Props and Icons_37: -823665642
+      The Natural 1-4 Props and Icons_38: 1545725405
+      The Natural 1-4 Props and Icons_39: 1437922505
+      The Natural 1-4 Props and Icons_4: 1234833750
+      The Natural 1-4 Props and Icons_40: 2111122467
+      The Natural 1-4 Props and Icons_41: -577185092
+      The Natural 1-4 Props and Icons_42: 100539141
+      The Natural 1-4 Props and Icons_43: 1381904070
+      The Natural 1-4 Props and Icons_44: -1323297335
+      The Natural 1-4 Props and Icons_45: 1816859642
+      The Natural 1-4 Props and Icons_46: -1832600587
+      The Natural 1-4 Props and Icons_47: -1773743591
+      The Natural 1-4 Props and Icons_48: -1429732556
+      The Natural 1-4 Props and Icons_49: -1122034837
+      The Natural 1-4 Props and Icons_5: -1153366197
+      The Natural 1-4 Props and Icons_50: -117667458
+      The Natural 1-4 Props and Icons_51: -544319140
+      The Natural 1-4 Props and Icons_52: -1145905428
+      The Natural 1-4 Props and Icons_53: 1186458799
+      The Natural 1-4 Props and Icons_54: 990220819
+      The Natural 1-4 Props and Icons_55: 348127328
+      The Natural 1-4 Props and Icons_56: -372690844
+      The Natural 1-4 Props and Icons_57: -1998709516
+      The Natural 1-4 Props and Icons_58: -1314024648
+      The Natural 1-4 Props and Icons_59: -522978421
+      The Natural 1-4 Props and Icons_6: -1338828562
+      The Natural 1-4 Props and Icons_60: 1340402885
+      The Natural 1-4 Props and Icons_61: 1900288715
+      The Natural 1-4 Props and Icons_62: 1646979182
+      The Natural 1-4 Props and Icons_63: -1364014155
+      The Natural 1-4 Props and Icons_64: -585837549
+      The Natural 1-4 Props and Icons_65: 1260631694
+      The Natural 1-4 Props and Icons_66: 1095124166
+      The Natural 1-4 Props and Icons_67: -1843600045
+      The Natural 1-4 Props and Icons_68: 56373615
+      The Natural 1-4 Props and Icons_69: 1380999640
+      The Natural 1-4 Props and Icons_7: 1333595604
+      The Natural 1-4 Props and Icons_70: -1863673362
+      The Natural 1-4 Props and Icons_71: 352727401
+      The Natural 1-4 Props and Icons_72: -88316382
+      The Natural 1-4 Props and Icons_73: 1682518706
+      The Natural 1-4 Props and Icons_74: 930056756
+      The Natural 1-4 Props and Icons_75: 852140875
+      The Natural 1-4 Props and Icons_76: 477180269
+      The Natural 1-4 Props and Icons_77: -1857375169
+      The Natural 1-4 Props and Icons_78: -1082203311
+      The Natural 1-4 Props and Icons_79: -740199885
+      The Natural 1-4 Props and Icons_8: -546304554
+      The Natural 1-4 Props and Icons_80: 798088226
+      The Natural 1-4 Props and Icons_81: -2081135288
+      The Natural 1-4 Props and Icons_82: -1507135259
+      The Natural 1-4 Props and Icons_83: -299260173
+      The Natural 1-4 Props and Icons_84: 435252181
+      The Natural 1-4 Props and Icons_85: 782724022
+      The Natural 1-4 Props and Icons_86: -1442839815
+      The Natural 1-4 Props and Icons_87: 1518797851
+      The Natural 1-4 Props and Icons_88: -1404635554
+      The Natural 1-4 Props and Icons_89: 46309084
+      The Natural 1-4 Props and Icons_9: 1488449302
+      The Natural 1-4 Props and Icons_90: 354367445
+      The Natural 1-4 Props and Icons_91: 912687872
+      The Natural 1-4 Props and Icons_92: 1713375637
+      The Natural 1-4 Props and Icons_93: -1465673077
+      The Natural 1-4 Props and Icons_94: -912813867
+      The Natural 1-4 Props and Icons_95: -1654845180
+      The Natural 1-4 Props and Icons_96: -1253911673
+      The Natural 1-4 Props and Icons_97: -825107734
+      The Natural 1-4 Props and Icons_98: -479566023
+      The Natural 1-4 Props and Icons_99: -664869393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
