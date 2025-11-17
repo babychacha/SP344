@@ -8,6 +8,126 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 1.unity
+    guid: de2ceab36c8cf214b90d8955ed0bf169
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 1.1.unity
+    guid: 85b99e86c9add6745a141f63619795eb
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 2.unity
+    guid: b3b211738bd59ef439ff2d94b1111861
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 2.1.unity
+    guid: a01842339986a1944bacf73200df9e21
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 3.unity
+    guid: 840b6e558ae2aa940be0d5a7f3bf480f
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 3.1.unity
+    guid: 3bd58cf8f1e5dce42b9b67e4d094f796
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 4.unity
+    guid: 83313c675d14217459b1acd19721cd2c
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 4.1.unity
+    guid: bfb764188373d1e478dc4073082fd3c9
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 5.unity
+    guid: cfad4ac2f23d36745a37bffe33d375da
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 5.1.unity
+    guid: 25cd9aa65f9ad3c45b964873828810f6
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 6.unity
+    guid: 81d0d23b1b313164fbf165f59b48a539
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 6.1.unity
+    guid: 29da2271b8bb8b04ab3b8998e4950318
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 7.unity
+    guid: 58d73952d86de0c4f893985fb46a65ca
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 7.1.unity
+    guid: 8efae890b04516c4d8d85407f6991288
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 8.unity
+    guid: 6301303ca92e0ae46892ec42ba9e7d73
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 8.1.unity
+    guid: 1035c0d91a922d6429a130b90d245e31
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 9.unity
+    guid: 6d572d0175b91154982ee0a151097943
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 9.1.unity
+    guid: 95b07fb5b481e454187c9ed7b105602e
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 10.unity
+    guid: db7abf3786355ef4f9a2051fd09db6e4
+  - enabled: 1
+    path: Assets/Scenes/pre test/pre 10.1.unity
+    guid: a30cdc70e8e0fc6448dda362ba89bbf1
+  - enabled: 1
+    path: Assets/Scenes/post test/post 1.unity
+    guid: c541649a3c9025b49aafdd09b5199609
+  - enabled: 1
+    path: Assets/Scenes/post test/post 1.1.unity
+    guid: bdd85f39ba57a8c4d88d77f1dc472496
+  - enabled: 1
+    path: Assets/Scenes/post test/post 2.unity
+    guid: 38da2502b6e58244dbc8f1b38aebf1d7
+  - enabled: 1
+    path: Assets/Scenes/post test/post 2.1.unity
+    guid: eb14bbed24b25d3459a63bd2ecaa1ed8
+  - enabled: 1
+    path: Assets/Scenes/post test/post 3.unity
+    guid: 6194a0d851f3dcb458a61d2faa6e345c
+  - enabled: 1
+    path: Assets/Scenes/post test/post 3.1.unity
+    guid: e120c9e6813ec1f4ab88944c8fe945d8
+  - enabled: 1
+    path: Assets/Scenes/post test/post 4.unity
+    guid: 4417f8475739cf4408fd917c4eeca84d
+  - enabled: 1
+    path: Assets/Scenes/post test/post 4.1.unity
+    guid: 13e3d38905c4bb04184dfcd03558585c
+  - enabled: 1
+    path: Assets/Scenes/post test/post 5.unity
+    guid: 14e7d45f51b27c545a83c9c03fae7e15
+  - enabled: 1
+    path: Assets/Scenes/post test/post 5.1.unity
+    guid: 3804fabe406546748a83e50ecb6fff81
+  - enabled: 1
+    path: Assets/Scenes/post test/post 6.unity
+    guid: a466990dccb105f49bbf5195b6f4c52a
+  - enabled: 1
+    path: Assets/Scenes/post test/post 6.1.unity
+    guid: e113bcd20bc7fb14d8c6c23d9625d5d9
+  - enabled: 1
+    path: Assets/Scenes/post test/post 7.unity
+    guid: 9d5e25e3842a14e46a7ded772257301c
+  - enabled: 1
+    path: Assets/Scenes/post test/post 7.1.unity
+    guid: 0ea1d32d616435a4282cd707fe96578c
+  - enabled: 1
+    path: Assets/Scenes/post test/post 8.unity
+    guid: 494cf47ba2d03684e930ec88b66a3caf
+  - enabled: 1
+    path: Assets/Scenes/post test/post 8.1.unity
+    guid: 1eb75b2cf3f32164c9d96f1d3cee7abe
+  - enabled: 1
+    path: Assets/Scenes/post test/post 9.unity
+    guid: b9c14512fadc47741bb41e223646cfc6
+  - enabled: 1
+    path: Assets/Scenes/post test/post 9.1.unity
+    guid: 6b0c567f84b97cf449e1d20b509be2ba
+  - enabled: 1
+    path: Assets/Scenes/post test/post 10.unity
+    guid: 92ce774e7faeba447b60705b424ffe48
+  - enabled: 1
+    path: Assets/Scenes/post test/post 10.1.unity
+    guid: 64832bf462c36cd4081b784783ae722e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
