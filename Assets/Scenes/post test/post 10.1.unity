@@ -6746,7 +6746,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuizButtonHandler
   scoreValue: 10
-  nextSceneName: score0
+  nextSceneName: score1
 --- !u!4 &1509518163
 Transform:
   m_ObjectHideFlags: 0

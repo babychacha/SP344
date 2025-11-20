@@ -6058,6 +6058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 939632559}
   - component: {fileID: 939632560}
+  - component: {fileID: 939632561}
   m_Layer: 0
   m_Name: RESULT MANAGER
   m_TagString: Untagged
@@ -6097,6 +6098,18 @@ MonoBehaviour:
   - {fileID: 750406194}
   - {fileID: 536806624}
   - {fileID: 1257736672}
+--- !u!114 &939632561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 939632558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc77dec0a5d3fe04c93d39b489aaa141, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameFlowManager
 --- !u!1 &1025562072
 GameObject:
   m_ObjectHideFlags: 0
@@ -6897,7 +6910,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1513711134}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 939632561}
+        m_TargetAssemblyTypeName: GameFlowManager, Assembly-CSharp
+        m_MethodName: ReplayGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1513711134
 MonoBehaviour:
   m_ObjectHideFlags: 0
