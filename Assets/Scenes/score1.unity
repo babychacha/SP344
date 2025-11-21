@@ -6323,7 +6323,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 7.75
+  orthographic size: 5.625
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -6913,7 +6913,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 939632561}
         m_TargetAssemblyTypeName: GameFlowManager, Assembly-CSharp
-        m_MethodName: ReplayGame
+        m_MethodName: ReplayPostTest
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
