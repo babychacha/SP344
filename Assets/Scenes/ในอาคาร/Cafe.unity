@@ -255,17 +255,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1306164358866381566, guid: afbe4ac36f8c5cc43877594f571d6c41, type: 3}
   m_PrefabInstance: {fileID: 73867987}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &109154101 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4656887745622796314, guid: ca49d389dc284c04e89c9033f23edaf0, type: 3}
-  m_PrefabInstance: {fileID: 1884836023}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b604c34d5de5b4408f0449f8ed08182, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem
 --- !u!1 &215553268
 GameObject:
   m_ObjectHideFlags: 0
@@ -7743,6 +7732,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 13.06767, y: 5.7974777}
   m_EdgeRadius: 0
+--- !u!114 &1824590535 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4656887745622796314, guid: ca49d389dc284c04e89c9033f23edaf0, type: 3}
+  m_PrefabInstance: {fileID: 1884836023}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b604c34d5de5b4408f0449f8ed08182, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSystem
 --- !u!1 &1844451275
 GameObject:
   m_ObjectHideFlags: 0
@@ -10197,18 +10197,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39fcf8630c6bf054187def3268c3cfc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
-  speakerNames:
+  characterNames:
   - "\u0E1E\u0E2D\u0E22\u0E40\u0E21\u0E22\u0E4C"
   - "\u0E21\u0E34\u0E19\u0E19\u0E35\u0E48"
   - "\u0E1E\u0E2D\u0E22\u0E40\u0E21\u0E22\u0E4C"
-  lines:
+  dialogueLines:
   - "\u0E22\u0E34\u0E19\u0E14\u0E35\u0E15\u0E49\u0E2D\u0E19\u0E23\u0E31\u0E1A\u0E04\u0E23\u0E31\u0E1A
-    \u0E2B\u0E37\u0E21 \u0E44\u0E21\u0E48\u0E40\u0E04\u0E22\u0E40\u0E2B\u0E47\u0E19\u0E2B\u0E19\u0E49\u0E32\u0E1E\u0E35\u0E48\u0E40\u0E25\u0E22\n\u0E40\u0E1B\u0E47\u0E19\u0E19\u0E31\u0E01\u0E17\u0E48\u0E2D\u0E07\u0E40\u0E17\u0E35\u0E48\u0E22\u0E27\n\u0E40\u0E2B\u0E23\u0E2D\u0E04\u0E23\u0E31\u0E1A"
-  - "\u0E2A\u0E27\u0E31\u0E2A\u0E14\u0E35\u0E04\u0E48\u0E30 \u0E22\u0E49\u0E32\u0E22\u0E40\u0E02\u0E49\u0E32\u0E21\u0E32\u0E2D\u0E22\u0E39\u0E48\n\u0E43\u0E2B\u0E21\u0E48\u0E04\u0E48\u0E30"
+    \u0E2B\u0E37\u0E21 \u0E44\u0E21\u0E48\u0E40\u0E04\u0E22\u0E40\u0E2B\u0E47\u0E19\u0E2B\u0E19\u0E49\u0E32\u0E1E\u0E35\u0E48\u0E40\u0E25\u0E22
+    \u0E40\u0E1B\u0E47\u0E19\u0E19\u0E31\u0E01\u0E17\u0E48\u0E2D\u0E07\u0E40\u0E17\u0E35\u0E48\u0E22\u0E27\u0E40\u0E2B\u0E23\u0E2D\u0E04\u0E23\u0E31\u0E1A?"
+  - "\u0E2A\u0E27\u0E31\u0E2A\u0E14\u0E35\u0E04\u0E48\u0E30 \u0E22\u0E49\u0E32\u0E22\u0E40\u0E02\u0E49\u0E32\u0E21\u0E32\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E2B\u0E21\u0E48\u0E04\u0E48\u0E30"
   - "\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E19\u0E35\u0E49\u0E19\u0E35\u0E48\u0E40\u0E2D\u0E07
     \u0E1C\u0E21\u0E0A\u0E37\u0E48\u0E2D\u0E1E\u0E2D\u0E22\u0E40\u0E21\u0E22\u0E4C\u0E19\u0E30
-    \u0E23\u0E49\u0E32\u0E19\u0E40\u0E23\u0E32\u0E1E\u0E23\u0E49\u0E2D\u0E21\n\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E40\u0E2A\u0E21\u0E2D\u0E04\u0E23\u0E31\u0E1A"
-  dialogue: {fileID: 109154101}
+    \u0E23\u0E49\u0E32\u0E19\u0E40\u0E23\u0E32\u0E1E\u0E23\u0E49\u0E2D\u0E21\u0E43\u0E2B\u0E49\u0E1A\u0E23\u0E34\u0E01\u0E32\u0E23\u0E40\u0E2A\u0E21\u0E2D\u0E04\u0E23\u0E31\u0E1A"
+  dialogueSystem: {fileID: 1824590535}
 --- !u!1 &2094201793
 GameObject:
   m_ObjectHideFlags: 0

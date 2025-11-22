@@ -265,18 +265,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39fcf8630c6bf054187def3268c3cfc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
-  speakerNames:
+  characterNames:
   - "\u0E1E\u0E35\u0E48\u0E23\u0E34\u0E19"
   - "\u0E21\u0E34\u0E19\u0E19\u0E35\u0E48"
   - "\u0E1E\u0E35\u0E48\u0E23\u0E34\u0E19"
-  lines:
+  dialogueLines:
   - "\u0E42\u0E2D\u0E49 \u0E2A\u0E32\u0E27\u0E19\u0E49\u0E2D\u0E22\u0E17\u0E35\u0E48\u0E44\u0E2B\u0E19\u0E40\u0E19\u0E35\u0E48\u0E22"
   - "\u0E2A\u0E27\u0E31\u0E2A\u0E14\u0E35\u0E04\u0E48\u0E30 \u0E09\u0E31\u0E19\u0E40\u0E1E\u0E34\u0E48\u0E07\u0E22\u0E49\u0E32\u0E22\u0E40\u0E02\u0E49\u0E32\u0E21\u0E32\u0E43\u0E2B\u0E21\u0E48
     \u0E1D\u0E32\u0E01\u0E15\u0E31\u0E27\u0E14\u0E49\u0E27\u0E22\u0E19\u0E30\u0E04\u0E30"
   - "\u0E44\u0E21\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E1E\u0E34\u0E18\u0E35\u0E02\u0E19\u0E32\u0E14\u0E19\u0E31\u0E49\u0E19\u0E01\u0E47\u0E44\u0E14\u0E49
     \u0E40\u0E2D\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E27\u0E48\u0E32\u0E1E\u0E35\u0E48\u0E0A\u0E37\u0E48\u0E2D\u0E23\u0E34\u0E19
     \u0E21\u0E35\u0E2D\u0E30\u0E44\u0E23\u0E43\u0E2B\u0E49\u0E0A\u0E48\u0E27\u0E22\u0E01\u0E47\u0E21\u0E32\u0E2B\u0E32\u0E1E\u0E35\u0E48\u0E44\u0E14\u0E49\u0E19\u0E30"
-  dialogue: {fileID: 854782841}
+  dialogueSystem: {fileID: 854782841}
 --- !u!1 &234836989
 GameObject:
   m_ObjectHideFlags: 0
@@ -1758,7 +1758,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7861470413337161666, guid: afbe4ac36f8c5cc43877594f571d6c41, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 250
+      value: 100
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1884,7 +1884,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 6.28125
+  orthographic size: 5.171875
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

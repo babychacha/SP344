@@ -1,107 +1,46 @@
 using UnityEngine;
 
-
-
 public class ScoreManager : MonoBehaviour
-
 {
-
-    // ตัวแปร STATIC สำหรับคะแนนรวม (เข้าถึงได้จากทุกที่)
-
+    // ตัวแปร STATIC สำหรับคะแนนรวม
     public static int currentScore = 0;
 
-   
-
-    // ตัวแปร STATIC สำหรับ Singleton Instance
-
-    public static ScoreManager Instance { get; private set; }
-
-
+    // Singleton Instance
+    public static ScoreManager Instance;
 
     void Awake()
-
     {
-
-        // ตั้งค่า Singleton และ DontDestroyOnLoad
-
-        if (Instance == null)
-
+        // ป้องกันไม่ให้มี ScoreManager ซ้ำกันหลายตัว
+        if (Instance != null && Instance != this)
         {
-
-            Instance = this;
-
-            DontDestroyOnLoad(gameObject);
-
-        }
-
-        else
-
-        {
-
             Destroy(gameObject);
-
+            return;
         }
 
-       
+        Instance = this;
 
-        // ตั้งคะแนนเริ่มต้นเป็น 0 ทุกครั้งที่เริ่มเกม
+        // ให้คงอยู่ทุกซีน
+        DontDestroyOnLoad(gameObject);
 
+        // รีเซ็ตคะแนนทุกครั้งที่เริ่ม pre-test
         currentScore = 0;
-
     }
 
-
-
-    // ฟังก์ชันสำหรับเพิ่มคะแนน (เรียกใช้เมื่อตอบถูก/ผิด)
-
+    // เพิ่มคะแนน
     public void AddScore(int scoreToAdd)
-
     {
-
         currentScore += scoreToAdd;
-
-        Debug.Log("คะแนนรวมปัจจุบัน: " + currentScore); // ใช้ตรวจสอบใน Console
-
+        Debug.Log("คะแนนรวมปัจจุบัน: " + currentScore);
     }
 
-   
-
-    // ฟังก์ชันสำหรับคำนวณจำนวนดาว (ตามเกณฑ์ 80, 40)
-
+    // คำนวณจำนวนดาว
     public int CalculateStarRating()
-
     {
-
-        // 80 คะแนน ขึ้นไป = 3 ดาว
-
         if (currentScore >= 80)
-
-        {
-
             return 3;
-
-        }
-
-        // 40-79 คะแนน = 2 ดาว
-
         else if (currentScore >= 40)
-
-        {
-
             return 2;
-
-        }
-
-        // 0-39 คะแนน = 1 ดาว
-
         else
-
-        {
-
             return 1;
-
-        }
-
     }
-
 }
