@@ -4,9 +4,8 @@ using TMPro;
 
 public class SignupController : MonoBehaviour
 {
-    // Keys ที่ใช้บันทึกข้อมูล
-    private const string UsernameKey = "PlayerUsername";
-    private const string PasswordKey = "PlayerPassword";
+    // เปลี่ยน Keys ให้รองรับหลายบัญชี: ใช้ Email เป็นส่วนหนึ่งของคีย์
+    private const string PasswordPrefix = "Password_"; 
 
     public TMP_InputField emailInput;
     public TMP_InputField passwordInput;
@@ -15,10 +14,20 @@ public class SignupController : MonoBehaviour
 
     private void Start()
     {
-        
         // ซ่อนข้อความ Error ตอนเริ่มต้น
         if (warningText != null)
             warningText.gameObject.SetActive(false); 
+    }
+
+    // Helper function ที่คุณต้องการใช้งาน (ต้องประกาศเป็น private/public ในคลาส)
+    void ShowWarning(string message)
+    {
+        Debug.LogError("SIGNUP Error: " + message);
+        if (warningText != null)
+        {
+            warningText.text = message;
+            warningText.gameObject.SetActive(true); 
+        }
     }
 
     // ฟังก์ชันนี้คือฟังก์ชันที่ต้องเชื่อมต่อกับปุ่ม Sign up (OnClickSignup)
@@ -36,16 +45,18 @@ public class SignupController : MonoBehaviour
             return;
         }
 
-        // 2. Check for existing account 
-        if (PlayerPrefs.HasKey(UsernameKey))
+        // สร้างคีย์เฉพาะสำหรับรหัสผ่านของอีเมลนี้
+        string passwordKeyForUser = PasswordPrefix + email;
+
+        // 2. Check for existing account (ถ้าคีย์เฉพาะเจาะจงของ Email นี้มีอยู่แล้ว)
+        if (PlayerPrefs.HasKey(passwordKeyForUser)) 
         {
-            ShowWarning("Error: This account already exists. Please log in.");
+            ShowWarning("Error: This Email is already registered. Please log in.");
             return;
         }
 
         // 3. Save data
-        PlayerPrefs.SetString(UsernameKey, email);
-        PlayerPrefs.SetString(PasswordKey, password);
+        PlayerPrefs.SetString(passwordKeyForUser, password);
         PlayerPrefs.Save(); 
 
         Debug.Log("Sign Up successful. Account: " + email);
@@ -54,17 +65,6 @@ public class SignupController : MonoBehaviour
         SceneManager.LoadScene(nextSceneName);
     }
 
-    // Helper function to show warning
-    void ShowWarning(string message)
-    {
-        Debug.LogError("SIGNUP Error: " + message);
-        if (warningText != null)
-        {
-            warningText.text = message;
-            warningText.gameObject.SetActive(true); 
-        }
-    }
-    
     public void OnClickClose()
     {
         SceneManager.LoadScene("Main_Menu");
