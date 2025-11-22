@@ -70,6 +70,3 @@ public class SignupController : MonoBehaviour
         SceneManager.LoadScene("Main_Menu");
     }
 }
- 
-
- 

@@ -87,4 +87,3 @@ public class LoginController : MonoBehaviour
         SceneManager.LoadScene("Main_Menu");
     }
 }
- 
